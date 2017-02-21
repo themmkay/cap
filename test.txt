@@ -1,2 +1,0 @@
-testar.txt
-hello world
